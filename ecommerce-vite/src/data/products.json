@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Headphones",
+    "price": 129.99,
+    "description": "Premium noise-cancelling wireless headphones with 30-hour battery life and crystal-clear audio quality.",
+    "image": "https://placehold.co/400x300?text=Wireless+Bluetooth+Headphones+Premium+Audio+Device",
+    "category": "Audio",
+    "inStock": true,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "title": "Smart Fitness Watch",
+    "price": 299.99,
+    "description": "Advanced fitness tracking smartwatch with heart rate monitoring, GPS, and 7-day battery life.",
+    "image": "https://placehold.co/400x300?text=Smart+Fitness+Watch+Health+Tracking+Device",
+    "category": "Wearables",
+    "inStock": true,
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "title": "4K Webcam Pro",
+    "price": 199.99,
+    "description": "Ultra HD 4K webcam with auto-focus, noise reduction, and professional lighting adjustment.",
+    "image": "https://placehold.co/400x300?text=4K+Webcam+Pro+Ultra+HD+Video+Camera",
+    "category": "Cameras",
+    "inStock": true,
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "title": "Mechanical Gaming Keyboard",
+    "price": 159.99,
+    "description": "RGB backlit mechanical keyboard with tactile switches, programmable keys, and gaming mode.",
+    "image": "https://placehold.co/400x300?text=Mechanical+Gaming+Keyboard+RGB+Backlit",
+    "category": "Gaming",
+    "inStock": false,
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "title": "Wireless Charging Pad",
+    "price": 49.99,
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices, sleek design with LED indicator.",
+    "image": "https://placehold.co/400x300?text=Wireless+Charging+Pad+Fast+Qi+Compatible",
+    "category": "Accessories",
+    "inStock": true,
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "title": "Portable Bluetooth Speaker",
+    "price": 89.99,
+    "description": "Waterproof portable speaker with 360-degree sound, 12-hour battery, and voice assistant support.",
+    "image": "https://placehold.co/400x300?text=Portable+Bluetooth+Speaker+Waterproof+360+Sound",
+    "category": "Audio",
+    "inStock": true,
+    "rating": 4.5
+  }
+]
